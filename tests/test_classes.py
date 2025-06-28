@@ -39,3 +39,6 @@ def test_init_category(category):
     assert category.products[2].price == 31000.0
     assert category.products[0].quantity == 5
 
+
+
+
