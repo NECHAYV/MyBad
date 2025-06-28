@@ -26,3 +26,5 @@ class Category:
         Category.product_count += len(products)
 
 
+
+
