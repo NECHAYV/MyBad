@@ -149,3 +149,6 @@ def test_middle_price_category():
 
     category_empty = Category("Смартфоны", "Категория смартфонов", [])
     assert category_empty.middle_price() == 0
+
+
+
